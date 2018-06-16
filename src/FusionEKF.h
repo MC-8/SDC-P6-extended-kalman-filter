@@ -4,6 +4,7 @@
 #include "measurement_package.h"
 #include "Eigen/Dense"
 #include <vector>
+#include <iostream>
 #include <string>
 #include <fstream>
 #include "kalman_filter.h"
