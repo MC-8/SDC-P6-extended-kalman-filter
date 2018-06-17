@@ -27,4 +27,5 @@ Blue and red dot are measurements from lidar and radar, while the green dots are
 The image also shows the RMSE of position and velocity, which were required to be lower than [0.11, 0.11, 0.52, 0.52].
 
 
-Further details such as setting the environment to build the files, can be found at the original Udacity repository [here](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project)
+The code is based on the [Udacity repository](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project).
+The repository contains further details on how to setup the development and build environment.
